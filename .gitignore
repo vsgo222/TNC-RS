@@ -1,0 +1,31 @@
+.idea/
+.ipynb_checkpoints/
+*.idea
+*.ipnyb_checkpoints
+00 - SWITRS_TIMS_data.ipynb
+00.1 - SWITRS.ipynb
+01-CrashRecords.ipynb
+02 - SF_RS&TNC_Analysis.ipynb
+02.1 - SF_RS&TNC_Analysis.ipynb
+02.1.2 - SF_RS&TNC_Analysis.ipynb
+02.1.3 - SF_RS&TNC_Analysis_fullnetwork.ipynb
+02.2 - CrossChecks and Validations.ipynb
+03 - Statsmodel.ipynb
+03.1 - Statsmodel_onlyTMC.ipynb
+03.2 - Statsmodel_Fullnetwork.ipynb
+03.3 - Statsmodel_TMCEquivFile.ipynb
+04 - CensusTrack.ipynb
+04.1 - CensusTrack-FT.ipynb
+04.1 - CensusTrack-fullnetwork.ipynb
+04.1.1 - CensusTrack-FT.ipynb
+4.2.0 - CensusTract agg_network.ipynb
+4.2.0_1 - CensusTrack - Fullnetwork.ipynb
+4.2.0_Sample.ipynb
+4.2.1 - Census Tract by FTs.ipynb
+FW_ Poisson Fixed Effects.msg
+TMCLink_with_max_crashes_2010.csv
+Test.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+Untitled4.ipynb
+ce599/
